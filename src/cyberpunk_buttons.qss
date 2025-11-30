@@ -1,0 +1,52 @@
+/*QMainWindow {
+    /*background-color: #050810;
+    background-image: url("C:/Users/marco/Desktop/41672235.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}*/
+
+QPushButton {
+    color: #00ffd2;
+    border: 2px solid #00ffd2;
+    border-radius: 6px;
+    font-family: "Oxanium", "Consolas", "Monospace";
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 6px 14px;
+}
+
+/* Hover */
+QPushButton:hover {
+    /*background-color: #00ffd2;*/
+    color: #f8ef02;
+    border-color: #f8ef02;
+}
+
+/* Pressed (while mouse down) */
+QPushButton:pressed {
+    color: #f8ef02;
+    padding-top: 8px;
+    padding-left: 15px;
+}
+
+/* Active / selected (toggled ON) */
+QPushButton:checked {
+    background-color: #136377;
+    /*border: 2px solid #f8ef02;*/
+    color: #f8ef02;
+}
+
+QPushButton:checked:hover {
+    background-color: #136377;
+    color: #f8ef02;
+}
+
+/* Disabled */
+QPushButton:disabled {
+    background-color: #111111;
+    color: #555555;
+    border-color: #333333;
+}
