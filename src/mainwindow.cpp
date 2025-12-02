@@ -47,13 +47,13 @@ MainWindow::MainWindow(QWidget *parent)
     setFixedSize(this->size());
     setAttribute(Qt::WA_TranslucentBackground);
     setWindowFlags(Qt::FramelessWindowHint);
-    setFixedSize(448, 194);
+    setFixedSize(450, 197);
 }
 
 void MainWindow::paintEvent(QPaintEvent *event)
 {
     QPainter p(this);
-    QPixmap pix("C:\\Users\\marco\\Desktop\\card.png");
+    QPixmap pix("C:\\Users\\marco\\git\\qt-cyberCalc\\images\\card.png");
     p.drawPixmap(0, 0, width(), height(), pix);
 }
 
