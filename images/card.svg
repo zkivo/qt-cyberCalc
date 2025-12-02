@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="card.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.0792508"
+     inkscape:cx="426.35548"
+     inkscape:cy="506.19193"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g20"
+       transform="matrix(1.4930564,0,0,1.36632,-35.413391,-34.592915)"
+       inkscape:export-filename="card.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="path4">
+        <path
+           style="fill:#0d0d14"
+           d="M 72.048602,132.26896 V 94.657785 h 79.295878 v 20.155265 l -18.62564,17.54589 z"
+           id="path17" />
+        <path
+           style="fill:#00b3eb"
+           d="m 71.824219,94.433594 v 38.058596 l 60.982421,0.0898 18.76172,-17.67187 V 94.433594 Z m 1.167096,0.447265 H 151.12109 V 114.7168 l -18.49023,17.41797 -59.639545,-0.0899 z"
+           id="path18"
+           sodipodi:nodetypes="cccccccccccc" />
+      </g>
+      <path
+         style="fill:#00b3eb;fill-opacity:1;stroke:#00b3eb;stroke-width:0.447;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         d="m 79.858298,132.29848 0.64206,-1.11206 h 4.92516 l -0.63983,1.10822"
+         id="path20" />
+    </g>
+  </g>
+</svg>
