@@ -1,6 +1,6 @@
 <RCC>
-  <qresource prefix="/">
-    <file>cyberpunk_buttons.qss</file>
-    <file>card.png</file>
-  </qresource>
+    <qresource prefix="/">
+        <file>card.png</file>
+        <file>cyberpunk_style.qss</file>
+    </qresource>
 </RCC>
