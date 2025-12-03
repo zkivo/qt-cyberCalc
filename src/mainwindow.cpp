@@ -1,6 +1,6 @@
 #include <QKeyEvent>
 #include "mainwindow.h"
-#include "./ui_mainwindow.h"
+#include "ui_mainwindow.h"
 #include <QButtonGroup>
 #include <QString>
 #include <QPainter>
@@ -53,7 +53,7 @@ MainWindow::MainWindow(QWidget *parent)
 void MainWindow::paintEvent(QPaintEvent *event)
 {
     QPainter p(this);
-    QPixmap pix("C:\\Users\\marco\\git\\qt-cyberCalc\\images\\card.png");
+    QPixmap pix(":/card.png");
     p.drawPixmap(0, 0, width(), height(), pix);
 }
 

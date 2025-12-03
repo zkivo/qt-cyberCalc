@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
 
     qDebug() << "Current working dir:" << QDir::currentPath();
 
-    QFile f("C:\\Users\\marco\\Documents\\qt-workspace\\qt-calculator\\cyberpunk_buttons.qss");
+    QFile f(":/cyberpunk_buttons.qss");
     if (!f.exists()) {
         qDebug() << "QSS file NOT found!";
     }
